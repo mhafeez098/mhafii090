@@ -1,0 +1,41 @@
+{
+    "timestamp": "2023-11-27_22-24-39",
+    "network_interfaces": {
+        "Ethernet": {
+            "bytes_sent": 0,
+            "bytes_received": 0,
+            "packets_sent": 0,
+            "packets_received": 0
+        },
+        "Local Area Connection* 1": {
+            "bytes_sent": 0,
+            "bytes_received": 0,
+            "packets_sent": 0,
+            "packets_received": 0
+        },
+        "Local Area Connection* 2": {
+            "bytes_sent": 0,
+            "bytes_received": 0,
+            "packets_sent": 0,
+            "packets_received": 0
+        },
+        "Wi-Fi": {
+            "bytes_sent": 132205,
+            "bytes_received": 679101,
+            "packets_sent": 1153,
+            "packets_received": 1098
+        },
+        "Bluetooth Network Connection": {
+            "bytes_sent": 0,
+            "bytes_received": 0,
+            "packets_sent": 0,
+            "packets_received": 0
+        },
+        "Loopback Pseudo-Interface 1": {
+            "bytes_sent": 0,
+            "bytes_received": 0,
+            "packets_sent": 0,
+            "packets_received": 0
+        }
+    }
+}
